@@ -163,3 +163,4 @@ StarterGui:SetCore("SendNotification", {
     Duration = 5,
     Icon = 'rbxassetid://135426712080950'
 })
+print("🟢 [S2Q API] Success Load")
