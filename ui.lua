@@ -161,6 +161,6 @@ StarterGui:SetCore("SendNotification", {
     Title = "S2Q MANAGER API",
     Text = "Connect : " .. game:GetService("Players").LocalPlayer.Name .. "",
     Duration = 5,
-    Icon = 'rbxassetid://135426712080950'
+    Icon = 'rbxassetid://85997366996397'
 })
 print("🟢 [S2Q API] Success Load")
