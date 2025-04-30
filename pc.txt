@@ -1,2 +1,2 @@
-3.7
+3.8
 https://files.cnpxdev.com/s2qtool/S2Q_PC.zip
