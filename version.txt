@@ -1,3 +1,3 @@
-4.4
+4.5
 https://files.cnpxdev.com/s2qtool/S2Q_MANAGER.zip
 https://files.cnpxdev.com/s2qtool/data.zip
